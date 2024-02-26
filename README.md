@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajbharad2003" alt="rajbharad2003" /></a> </p>
 
-- 🔭 I’m currently working on **MEAN Stack Project**
+- 🔭 I’m currently working on [MEAN Stack Project (Doc-Connect)](https://github.com/devanshu1010/MEAN_DocConnet.git)
 
-- 📫 Connect with me **bharadraj2003@gmailcom**
+- 📫 Connect with me at **bharadraj2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
